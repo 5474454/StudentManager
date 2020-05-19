@@ -1,0 +1,16 @@
+{
+  "name": "antdstudent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "umi dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/icons": "^4.1.0",
+    "umi-plugin-react": "^1.15.8"
+  }
+}

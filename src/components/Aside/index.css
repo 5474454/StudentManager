@@ -1,0 +1,21 @@
+.nav {
+  height: 100%;
+  background-color: #666;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: #fff;
+  padding: 30px 0;
+  box-sizing: border-box;
+}
+
+.nav li {
+  height: 35px;
+  line-height: 35px;
+  padding: 10px 20px;
+}
+
+.nav li a:hover,
+.nav li a.active {
+  color: yellow;
+}
